@@ -6,6 +6,6 @@ Good luck!
 
 | Tag     |  Score |
 | ------- | ------ |
-| Definition of ML |        |
-| Understanding of Application of ML         |        |
-| Importance of Data in ML        |        |
+| Definition of ML |    3    |
+| Understanding of Application of ML         |    3    |
+| Importance of Data in ML        |    2    |
