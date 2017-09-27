@@ -6,7 +6,7 @@ Good luck!
 
 | Tag     |  Score |
 | ------- | ------ |
-| Understanding of Supervised Learning |        |
-| Understanding of Unsupervised Learning         |        |
-| Difference b/w Supervised and Unsupervised Learning        |        |
-| How helpful were the resources         |        |
+| Understanding of Supervised Learning |   3    |
+| Understanding of Unsupervised Learning         |    1    |
+| Difference b/w Supervised and Unsupervised Learning        |    3    |
+| How helpful were the resources         |    3    |
