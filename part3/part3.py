@@ -39,13 +39,15 @@ if __name__ == "__main__":
     str_data = Data("python")
     int_data = Data(3)
     list_data = Data(["python", 3, True])
+    test_list = [str_data, int_data, list_data]
 
-    str_is_equal = str_data.comparator("Apple", "Oranges")
-    str_last_elem = str_data.return_last("Apple")
-    str_reverse_data = str_data.reverse_data("Apple")
-    str_list_data = str_data.concat_data("Apple", "Oranges")
-
-
+    for item in test_list:
+        print()
+        print(item.comparator("Apple", "Oranges"))
+        print(item.return_last("Apple"))
+        print(item.reverse_data("Apple"))
+        print(item.concat_data("Apple", "Oranges"))
+        print(item.mixture("Apple",[" Oranges", " Grapes"]))
 """
 
 1. better way to check for object type: isinstance(a, str)
