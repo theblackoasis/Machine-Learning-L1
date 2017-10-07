@@ -49,17 +49,13 @@ if __name__ == "__main__":
         print(item.concat_data("Apple", "Oranges"))
         print(item.mixture("Apple",[" Oranges", " Grapes"]))
 """
+todo:
 
-1. better way to check for object type: isinstance(a, str)
-a = 1
-isinstance(a, int) => returns True else returns False
+Instantiate the object with an argument and apply all the operations on that argument only.
+DO NOT Pass any extra argument while envoking the methods. Thereby utilizing the attributes of the
+class itself. 
+One of the primary reasons for using classes is modularity. 
+You can create objects of the same class with same properties anywhere without worrying about the arguments.
+Since all the required attributes are assigned by the class itself.
 
-b = "apple"
-isinstance(b, str) => returns True else retruns False
-
-c = [1, 2, 3, "Apple"]
-isinstance(c, list) => returns True else returns False
-
-2. methods  are correct
-3. I have created 3 objects you can test the class through them. I have checked methods with string object.
 """
