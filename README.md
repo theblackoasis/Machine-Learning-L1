@@ -47,24 +47,24 @@ or the mentee's preferences.
 
 
 
-### Introducing the project with all of its essential elements     
-    - [x] What is Machine Learning?
-    - [x] Importance of Machine Learning
-    - [x] Introduction to Supervised Learning
-    - [x] Introduction to Unsupservised Learning
+### Introducing the project with all of its essential elements
+- [x] What is Machine Learning?
+- [x] Importance of Machine Learning
+- [x] Introduction to Supervised Learning
+- [x] Introduction to Unsupservised Learning
 
 
 ### Python Primer
-    - [x] Python syntax introduction
-    - [x] Primer of Python Classes
+- [x] Python syntax introduction
+- [x] Primer of Python Classes
 
 ### Data loading and processing
-    - [ ] Reading and Writing Text Files in Python
-    - [ ] Working with Delimited Formats and MS Excel Files
-    - [ ] Combining, Reshaping and Transforming Data Sets
-    - [ ] String Related Opration on Data Sets
-    - [ ] Group-wise Operatons on Data Sets
-    - [ ] Data Visulatization using Matplotlib
+- [ ] Reading and Writing Text Files in Python
+- [ ] Working with Delimited Formats and MS Excel Files
+- [ ] Combining, Reshaping and Transforming Data Sets
+- [ ] String Related Opration on Data Sets
+- [ ] Group-wise Operatons on Data Sets
+- [ ] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
