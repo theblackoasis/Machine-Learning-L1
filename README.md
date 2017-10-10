@@ -56,7 +56,7 @@ or the mentee's preferences.
 
 ### Python Primer
 - [x] Python syntax introduction
-- [x] Primer of Python Classes
+- [x] Assignment on Python Classes
 
 ### Data loading and processing
 - [ ] Reading and Writing Text Files in Python
