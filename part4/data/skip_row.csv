@@ -1,0 +1,8 @@
+# This is some random comment
+col1,col2,col3,col4,value
+# unwanted comment needs to be removed
+# Remove this one too
+1,2,3,4,YOU
+5,6,7,8,DID
+# and if possible remove me too!!
+9,10,11,12,IT
