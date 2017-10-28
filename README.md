@@ -59,11 +59,11 @@ or the mentee's preferences.
 - [x] Assignment on Python Classes
 
 ### Data loading and processing
-- [ ] Reading and Writing Text Files in Python
-- [ ] Working with Delimited Formats and MS Excel Files
-- [ ] Combining, Reshaping and Transforming Data Sets
-- [ ] String Related Opration on Data Sets
-- [ ] Group-wise Operatons on Data Sets
+- [x] Reading and Writing Text Files in Python
+- [x] Working with Delimited Formats and MS Excel Files
+- [x] Combining, Reshaping and Transforming Data Sets
+- [x] String Related Opration on Data Sets
+- [x] Group-wise Operatons on Data Sets
 - [ ] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
