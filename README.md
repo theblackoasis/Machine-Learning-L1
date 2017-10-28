@@ -45,7 +45,8 @@ or the mentee's preferences.
 
 > Performance measurement of your algorithm
 
-
+### Timeline
+start date: Aug 30, 2017
 
 ### Introducing the project with all of its essential elements
 - [x] What is Machine Learning?
